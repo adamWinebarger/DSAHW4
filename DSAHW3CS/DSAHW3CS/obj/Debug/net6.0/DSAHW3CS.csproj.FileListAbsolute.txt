@@ -1,0 +1,15 @@
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/bin/Debug/net6.0/DSAHW3CS
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/bin/Debug/net6.0/DSAHW3CS.deps.json
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/bin/Debug/net6.0/DSAHW3CS.runtimeconfig.json
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/bin/Debug/net6.0/DSAHW3CS.dll
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/bin/Debug/net6.0/ref/DSAHW3CS.dll
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/bin/Debug/net6.0/DSAHW3CS.pdb
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/obj/Debug/net6.0/DSAHW3CS.csproj.AssemblyReference.cache
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/obj/Debug/net6.0/DSAHW3CS.GeneratedMSBuildEditorConfig.editorconfig
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/obj/Debug/net6.0/DSAHW3CS.AssemblyInfoInputs.cache
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/obj/Debug/net6.0/DSAHW3CS.AssemblyInfo.cs
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/obj/Debug/net6.0/DSAHW3CS.csproj.CoreCompileInputs.cache
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/obj/Debug/net6.0/DSAHW3CS.dll
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/obj/Debug/net6.0/ref/DSAHW3CS.dll
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/obj/Debug/net6.0/DSAHW3CS.pdb
+/home/adam/RiderProjects/DSAHW3CS/DSAHW3CS/obj/Debug/net6.0/DSAHW3CS.genruntimeconfig.cache
