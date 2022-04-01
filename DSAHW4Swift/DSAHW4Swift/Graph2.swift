@@ -15,7 +15,8 @@ class Graph2 {
         for edge in edges {
             if !vertices.contains(edge.node1) {
                 vertices.append(edge.node1)
-            } else if !vertices.contains(edge.node2) {
+            }
+            if !vertices.contains(edge.node2) {
                 vertices.append(edge.node2)
             }
         }
@@ -57,6 +58,7 @@ class Graph2 {
         var edges = e
         
         let vertices = determineVertices(edges: edges)
+        //print(vertices)
         
         var result : [Edge] = []
         
@@ -83,7 +85,7 @@ class Graph2 {
             
             //Now we need a catchment to ensure that we don't create a cycle by including this edge
             if x != y {
-                result.append(nextEdge); e+=1
+                result.append(nextEdge); e += 1
                 union(subsets: subsets, x: x, y: y)
             } //and we discard the edge if this condition isn't met
         }
