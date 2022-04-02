@@ -1,5 +1,7 @@
 # DSAHW4
 
+I basically just set up a repo here because I had 3 different versions of the assignment spanning two devices. So I decided that instead of copying one/multiple of the versions onto a thumb-drive just to drop it onto a different machine, I decided to just push everything to a git repo
+
 - DSAHW3CS is actually this homework assignment, but in C#. I accidentally put 3 instead of 4 and was too lazy to change it
 - The one that ends in "Swift" is obviously swift
 - And the one where I didn't specify the language is primarily Kotlin with a java main method for ease-of-use
